@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/243fdc2f-529c-4713-85d3-424772f184e8)
+
+
+
 # ToDoList
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.2.
